@@ -58,10 +58,10 @@
 		retinaSuffix: '@2x.$1',
 
 		// internationalization
-		current: "image {current} of {total}",
-		previous: "previous",
-		next: "next",
-		close: "close",
+		current: "Imagens {current} de {total}",
+		previous: "anterior",
+		next: "próximo",
+		close: "fechar",
 		xhrError: "This content failed to load.",
 		imgError: "This image failed to load.",
 
